@@ -4,7 +4,8 @@ import { getFirestore, collection } from "firebase/firestore";
 
 
 
-const firebaseConfig = {
+const firebaseConfig = 
+{
   apiKey: "AIzaSyBQFU1JDzC8qKTBM4tSr6wOLHPdb4geDSc",
   authDomain: "spendwise-de77d.firebaseapp.com",
   projectId: "spendwise-de77d",
